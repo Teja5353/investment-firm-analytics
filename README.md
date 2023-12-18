@@ -44,23 +44,23 @@ The dashboard will serve as a visual representation of key performance indicator
 
 ## Getting Started
 
-# Clone this Repository
+### Clone this Repository
 git clone https://github.com/your-username/investment-firm-analytics.git
 
-# Navigate to the Project Directory
+### Navigate to the Project Directory
 cd investment-firm-analytics
 
-# Setup Your Environment
-Follow the instructions in the project documentation
-to set up your environment and run scripts for data extraction and dashboard creation.
+### Setup Your Environment
+#### Follow the instructions in the project documentation
+#### to set up your environment and run scripts for data extraction and dashboard creation.
 
-# Important Notes
-Assumes familiarity with Python, web scraping techniques,
-and data visualization using Plotly.
+### Important Notes
+##### Assumes familiarity with Python, web scraping techniques,
+##### and data visualization using Plotly.
 
-Recommended Environments
-Skills Network Labs and Watson Studio will be used as primary environments
-for hands-on learning and project development.
+### Recommended Environments
+#### Skills Network Labs and Watson Studio will be used as primary environments
+#### for hands-on learning and project development.
 
-Happy analyzing and investing! 📈💼
+### Happy analyzing and investing! 📈💼
 
