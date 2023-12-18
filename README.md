@@ -51,15 +51,15 @@ git clone https://github.com/your-username/investment-firm-analytics.git
 cd investment-firm-analytics
 
 # Setup Your Environment
-# Follow the instructions provided in the project documentation
-# to set up your environment and run the scripts for data extraction and dashboard creation.
+# Follow the instructions in the project documentation
+# to set up your environment and run scripts for data extraction and dashboard creation.
 
 # Important Notes
-# This project assumes familiarity with Python, web scraping techniques,
+# Assumes familiarity with Python, web scraping techniques,
 # and data visualization using Plotly.
 
 # Recommended Environments
-# Skills Network Labs and Watson Studio will be used as the primary environments
+# Skills Network Labs and Watson Studio will be used as primary environments
 # for hands-on learning and project development.
 
 # Happy analyzing and investing! 📈💼
