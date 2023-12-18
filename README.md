@@ -48,7 +48,9 @@ The dashboard will serve as a visual representation of key performance indicator
 
 ```bash
 git clone https://github.com/your-username/investment-firm-analytics.git
+
 Navigate to the project directory.
+
 cd investment-firm-analytics
 Follow the instructions provided in the project documentation to set up your environment and run the scripts for data extraction and dashboard creation.
 Important Notes
