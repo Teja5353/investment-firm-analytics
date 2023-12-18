@@ -45,7 +45,7 @@ The dashboard will serve as a visual representation of key performance indicator
 ## Getting Started
 
 ### Clone this Repository
-git clone https://github.com/your-username/investment-firm-analytics.git
+git clone https://github.com/Teja5353/investment-firm-analytics.git
 
 ### Navigate to the Project Directory
 cd investment-firm-analytics
