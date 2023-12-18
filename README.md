@@ -36,7 +36,7 @@ The dashboard will serve as a visual representation of key performance indicator
 1. **Access Skills Network Labs:**
    - Utilize the Skills Network Labs for hands-on experience and completing the required labs.
 
-2. **Utilize Watson Studio:**
+2. **Utilize Watson Studio/JUPYTER LABS:**
    - Leverage Watson Studio, a collaborative environment in IBM Cloud Pak for Data, for developing and deploying the project.
 
 3. **Python Libraries:**
